@@ -1,0 +1,24 @@
+[
+  {
+    "data": [
+      {
+        "id": "1",
+        "nombre": "Producto 1",
+        "rutaImagen": "https://via.placeholder.com/400x250",
+        "descripcion": "Lorem impsum ",
+        "caracteristicas": "i3, 128gb ssd, 4gb ram, pantalla de 14",
+        "precio": "199",
+        "stock": "128"
+      },
+      {
+        "id": "2",
+        "nombre": "Producto 2",
+        "rutaImagen": "https://via.placeholder.com/400x250",
+        "descripcion": "Lorem impsum ",
+        "caracteristicas": "i5, 128gb ssd, 8gb ram, pantalla de 14",
+        "precio": "349",
+        "stock": "76"
+      }
+    ]
+  }
+]
